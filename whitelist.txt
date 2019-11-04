@@ -29,15 +29,15 @@ imgs.xkcd.com
 netflix.com
 alluremedia.com.au
 tomshardware.com
-ocsp.apple.com #Apple
-itunes.apple.com #Apple iMusic
-s.mzstatic.com #Apple iMusic
+ocsp.apple.com
+itunes.apple.com
+s.mzstatic.com
 s.shopify.com
-keystone.mwbsys.com #Malwarebytes server
-dl.dropbox.com #DropBox
-dl.dropboxusercontent.com #DropBox
-ns1.dropbox.com #DropBox
-ns2.dropbox.com #DropBox
+keystone.mwbsys.com
+dl.dropbox.com
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
 api.ipify.org
 video-stats.l.google.com
 s.youtube.com
@@ -80,6 +80,6 @@ ui.skype.com pricelist.skype.com
 apps.skype.com m.hotmail.com
 sa.symcb.com
 s{1..5}.symcb.com
-gfwsl.geforce.com #NVIDIA GeForce Experience
-tracking.epicgames.com #Epic Games Store
-playstation.com #PSN
+gfwsl.geforce.com
+tracking.epicgames.com
+playstation.com
