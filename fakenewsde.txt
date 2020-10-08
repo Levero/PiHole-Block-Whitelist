@@ -3,12 +3,11 @@
 #Author: Robin Leve
 #License: MIT License
 #Home: https://rleve.de
-#@ GitLab : https://github.com/Levero/PiHole-Block-Whitelist
-#Updated: 04 Nov 2019
-#LatestVersion 0.1
+#@ Github : https://github.com/Levero/PiHole-Block-Whitelist
+#Updated: 08 Okt 2020
+#LatestVersion 1.0
 #---------------------
-gab.com
-19vierundachtzig.com #Rechter Blog // Hetze
+19vierundachtzig.com
 afd.de
 asylterror.com
 blog.halle-leaks.de
@@ -28,7 +27,9 @@ freiezeiten.net
 gloria.tv
 halle-leaks.de
 hartgeld.com
+heutigen-nachrichten.de
 impfen-nein-danke.de
+islamspiegel-hamburg.de
 journalistenwatch.com
 kopp-report.de
 kulturstudio.info
@@ -48,6 +49,7 @@ theeuropean.de
 truth24.net
 unzensuriert.de
 volksstimme.de
+welt-im-wandel.tv
 wgvdl.com
 www.afd.de
 www.babykaust.de
@@ -66,3 +68,5 @@ www.truth24.net
 www.unzensuriert.at
 www.unzensuriert.de
 www.volksstimme.de
+www.welt-im-wandel.tv
+gab.com
