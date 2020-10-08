@@ -9,3 +9,6 @@
 #---------------------
 sentry.io
 s.ipaddress.com
+wh.ipaddress.com
+usercentrics.eu
+graphql.usercentrics.eu
