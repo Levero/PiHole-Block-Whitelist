@@ -83,3 +83,9 @@ s{1..5}.symcb.com
 gfwsl.geforce.com
 tracking.epicgames.com
 playstation.com
+bitwarden.com
+*.bitwarden.com
+duckduckgo.com
+*.duckduckgo.com
+tresorit.com
+*.tresorit.com
