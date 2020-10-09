@@ -8,3 +8,8 @@
 #LatestVersion 1.0
 #---------------------
 init.push.apple.com
+na1e-acc.services.adobe.com
+ss-prod-ue1-notif-58.aws.adobess.com
+scss.adobesc.com
+acp-ss.adobe.io
+acp-ss-ue1.adobe.io
