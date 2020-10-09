@@ -68,6 +68,7 @@ hlrcv.stage.adobe.com
 hl2rcv.adobe.com
 hl2rcv.adobe.de
 ims-na1-prprod.adobelogin.com
+ims-prod06.adobelogin.com
 lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 na1r.services.adobe.com
