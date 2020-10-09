@@ -10,5 +10,6 @@
 sentry.io
 s.ipaddress.com
 wh.ipaddress.com
+ipv6.ipaddress.com
 usercentrics.eu
 graphql.usercentrics.eu
