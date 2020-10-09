@@ -1,0 +1,10 @@
+#Title: RLEVE Google Blocklist
+#Description: Google Block List from RLeve.de
+#Author: Robin Leve
+#License: MIT License
+#Home: https://rleve.de
+#@ Github : https://github.com/Levero/PiHole-Block-Whitelist
+#Updated: 08 Okt 2020
+#LatestVersion 1.0
+#---------------------
+play.google.com
