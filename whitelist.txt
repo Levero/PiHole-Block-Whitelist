@@ -79,13 +79,9 @@ client-s.gateway.messenger.live.com
 ui.skype.com pricelist.skype.com
 apps.skype.com m.hotmail.com
 sa.symcb.com
-s{1..5}.symcb.com
 gfwsl.geforce.com
 tracking.epicgames.com
 playstation.com
 bitwarden.com
-*.bitwarden.com
 duckduckgo.com
-*.duckduckgo.com
 tresorit.com
-*.tresorit.com
